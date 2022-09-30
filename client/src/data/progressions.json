@@ -1,0 +1,54 @@
+{
+    "2": {
+        "expected_level": "2",
+        "activity": "Kill Hillock"
+    },
+    "3": {
+        "expected_level": "3",
+        "activity": "Tidal Island Quest"
+    },
+    "4": {
+        "expected_level": "4",
+        "activity": "Arrive @ Submerged Passage"
+    },
+    "8": {
+        "expected_level": "8",
+        "activity": "Arrive @ Prison"
+    },
+    "10": {
+        "expected_level": "10",
+        "activity": "Kill Brutus"
+    },
+    "12": {
+        "expected_level": "12",
+        "activity": "Arrive @ Cavern of Wrath"
+    },
+    "16": {
+        "expected_level": "16",
+        "activity": "Save Helena"
+    },
+    "18": {
+        "expected_level": "18",
+        "activity": "Kill Weaver"
+    },
+    "24": {
+        "expected_level": "24",
+        "activity": "Find Tolman"
+    },
+    "28": {
+        "expected_level": "28",
+        "activity": "Kill Gravicius"
+    },
+    "31": {
+        "expected_level": "31",
+        "activity": "Library Quest"
+    },
+    "34": {
+        "expected_level": "34",
+        "activity": "Break the Seal"
+    },
+    "38": {
+        "expected_level": "38",
+        "activity": "Kill Daresso & Kaom"
+    }
+}
